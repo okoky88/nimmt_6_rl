@@ -1,6 +1,9 @@
 # Installation
 `pip install numpy`
+
 `pip install torch`
+
+`mkdir model`
 
 ## Training
 `python train.py`
